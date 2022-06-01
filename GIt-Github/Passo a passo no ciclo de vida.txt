@@ -1,0 +1,52 @@
+- Git init - esse comando inicializa os repositórios dentro da pasta.
+
+tracked ou Untracked 
+- tracked: são arquivos que o git consegue identificar, é dividido em unmodified (não modificado), modified (modificado) e staged (arquivos que estão sendo preparados para serem reagrupados antes de irem para o servidor)
+
+- Untracked: são arquivos desconhecidos pelo git
+
+o arquivo passa de untracked para tracked quando é adicionado no repositório, e vira um unmodified
+
+o arquivo passa de unmodifeid para modified quando é aberto
+
+O arquivo passa de modified para staged qiamdp aberto e modificado para fazer parte de um commit
+
+se o arquivo for removido antes de alteração, passa a ser untracked novamente.
+
+quando um arquivo vira um commit, novamente volta a ser unmodified
+
+Sendo assim, unmodified, modified e staged são um ciclo de operações.
+
+
+
+
+Repositórios
+
+Existem o servidor e o ambiente de desenvolvimento,  no ambiente de desenvolvimento temos o repositório local. Quando se faz um commit
+os arquivos passa a fazer parte do repositório local, que pode ser empurrado para o servidor, onde fica nosso repositório remoto
+
+Tudo que está no repositório local, deve estar commitado para poder ser empurrado para o repositório online.
+
+git status - mostra o estado dos arquivos que estão sendo manipulados.
+
+
+
+Mover repositórios locais para repositórios remotos
+
+git remote add origin + caminho do repositório online - isso atribui um apelido ao link https do repositório
+
+git push origin master - encaminha o repositório para o repositório online
+
+
+Por algumas vezes, ao ter mais de uma pessoa trabalhando no código, ou no caso de alguem contribuir com seu código, e você fizer uma requisão pull,
+o git pode trazer uma versão com as alterações em comentários, quando isso acontecer, você deve abrir manualmente o código original e o alterado, e fazer as alterações
+para que não ocorra conflitos na versão do código.
+
+git pull origin master - é o comando para requisitar o arquivo do repositório online.
+
+
+Para baixar repositórios - No repositório que você quer baixar, acesse o botão code, copie o link ssh.
+
+no bash, entre na pasta que deseja armazenar o repositório atraves do cd, e digite o comando 
+
+git clone + linkk ssh.

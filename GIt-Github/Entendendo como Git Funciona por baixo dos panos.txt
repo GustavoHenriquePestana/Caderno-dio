@@ -1,0 +1,41 @@
+- SHA1
+- Objetos Fundamentais
+- Sistema Distribuido
+- Segurança
+
+SHA1 - é um conjunto de funções hash criptográficas, projetadas pela NSA (Agência Nacional dos EUA).
+- A incriptação gera conjunto de characteres indentificador de 40 digitos. Serve como identificação de arquivos, uma forma curta de representar um aquivo.
+
+Objetos Internos do Git
+
+- Blobs
+- Trees
+- Commits
+
+Blobs - armazena arquivos, tem tamanho, barra contraria e zero e o arquivo.
+
+Blob  tamanho 42
+/0
+Olá Mundo (exemplo)
+
+Blobs gerar um código SHA1, caso algum arquivo na blob seja alterado, nem que seja uma virgula, o número do sha1 muda. Caso o arquivo seja alterado novamente para a mesma forma original, o código sha1 volta a ser o mesmo do primeiro.
+
+Tree - Armazena Blobs
+- trees podem armazenar outras trees, pois repositórios também podem ter repositórios.
+- trees também geram sha1 de metadados, por consequência, mudam os códigos sha1 das blobs
+
+Commit
+
+estrutura
+
+tree - s4assq1
+parente - a98acq1
+autor - GustavoHenriquePestana
+
+um commit aponta para uma mensagem e para um autor
+
+commit pode deixar uma mensagem para explicar o que significa seu conjunto de dados
+
+commits também possuem sha1, logo, se mudar qualquer coisa em um arquivo, toda a estrutura de dados terá seu sha1 alterado, desde de a blob.
+
+por esse motivo o git é um sistema distribuido e seguro. 

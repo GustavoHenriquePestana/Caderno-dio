@@ -1,0 +1,14 @@
+Por que estudar Git e Github?
+
+- Git é um software de versionamento de código, para manter versões de um software por exempo.
+- Github é uma empresa responsavel por armazenar repositórios online.
+
+Beneficios em aprender 
+
+1 - Controle de versões
+2 - Armazenamento em nuvem
+3 - Trabalho em equipe
+4 - Melhorar seu código
+5 - Reconhecimento
+
+Git não tem uma interface gráfica, sua manipulação é por linhas de comando(CLI).

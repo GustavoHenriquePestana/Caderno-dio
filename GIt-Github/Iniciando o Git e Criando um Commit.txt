@@ -1,0 +1,20 @@
+- Iniciar o Git 
+- Iniciar o versionamento
+- Criar um commit
+
+. git init
+. git add
+. git commit
+
+No terminal, usamos primeiro o nome do git, seguido pelo comando 
+
+git init - inicializa o repositório
+
+flag ls -a = mostrar arquivos ocultos
+antes de criar os arquivos pela primeira vez é necessário fazer Configurações referentes ao email e ao nome de usuário que o commit vai autenticar como autor do commit
+
+git config --global user.email + email
+git config --global user.name + nome
+
+é recomendado que sejam os mesmos do github
+

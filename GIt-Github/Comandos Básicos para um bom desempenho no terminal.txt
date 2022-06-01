@@ -1,0 +1,30 @@
+O que vamos aprender?
+
+- Mudar de pastas no git
+- listar elementos
+- Criar pastas e arquivos no terminal
+- Deletar pastas e arquivos no terminal
+
+Comandos no Windows
+
+- CD
+- Dir
+- Mkdir
+- Del/rmdir
+
+Dir - lista de diretórios do usuário que você está
+
+cd - comando de navegação entre as pastas
+cd .. - retroceder um nivel nas pastas
+
+cls ou crtl + l - limpar a tela
+
+TAB - autocompletar
+
+mkdir + "nome da pasta" - criar pastas
+
+echo + "nome do arquivo" + "extensão do aquivo" - criar arquivos
+
+dell + caminho - deletar arquivos
+
+rmdir - excluir repositórios

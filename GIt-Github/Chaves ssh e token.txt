@@ -1,0 +1,32 @@
+Quando for empurrar o código no github, é necessário se autenticar. A autenticação é feita através da chave ssh e token.
+
+Chaves ssh - é uma forma de estabelecer uma conexão segura entre sua máquina local e o servidor do git hub
+
+- São geradas duas chaves, uma publica e uma privada.
+
+A chave fica em settings, na seção ssh no componente keys.
+
+Comando para gerar chaves
+ - ssh-keygen -t ed25519 -C email
+
+pedirá uma senha
+
+- o git devolvera o caminho da pasta + a chave
+
+- acessar a pasta com cd + o caminho
+
+- listar elementos com LS
+
+- pegar o conteudo com cat + elemento
+
+inicializar o ssh agent - inicializa as chaves
+
+eval $(ssh-agent -s)
+devolverá o agent pid
+
+
+
+
+Na mesma seçção key acessada para as chaves ssh, há também o espaço para gerar tokens.
+
+ao gerar o token, só se pode ver ele uma vez, ao sair da página, não será possivel ver novamente o código.
