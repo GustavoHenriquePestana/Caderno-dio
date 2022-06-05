@@ -1,0 +1,49 @@
+# Principais Linguagens
+
+ - HTML - Linguagem de Marcação
+ - CSS
+ - JavaScript
+ - PHP
+ - .NET
+ - ASP
+ - Java
+ - Ruby
+ - Python
+ - Perls
+ - C/C++/C#
+
+# Termos Comuns
+ - 404 - Página Inexistente.
+ - Algoritmo - Sequência de passos para executar uma tarefa.
+ - ALT - Texto mostrado ao deixar o mouse em cima de um elemento
+ - API - ferramenta prar execução de funções em programas.
+ - Aplicações - App, Software, etc.
+ - Bbiblioteca/ dll - Conjunto de ferramentas para execuções especificas.
+ - Bootstrap - Framework de JS.
+ - Break point - pontoso chaves para telas multimidia, ou pontos de paradas no debug de um código.
+ - Bug - Falha no sistema.
+ - Controle de versões - Softwares que controlam versões de programas e códigos.
+ - Debug - Processo de verificação do código.
+ - Deploy - Envio de Código.
+ - Desing adaptativo/responsivo - Se adapta a qualquer dispositivo.
+ - Documentação - Dá detalhes sobre o software ou quem criou.
+ - DPI - Porporção de pontos da tela.
+ - Editor de texto - Ferramentas para editar texto.
+ - IDE - Interface de desenvolvimento de código.
+ - Estrutura de dados - Tipo de dados interpretados pelo computador, como por exemplo: number, char, etc.
+ - Favicon - Figura que define o site.
+ - Fontes - Estética da letra.
+ - Framework - "Caixas de ferramentas" para desenvolver softwares.
+ - FTP - Potocolo de troca de arquivos.
+ - Github - Controlador de versões de software.
+ - Meta tags - tags com funções especificas no head do código.
+ - Metodológias Ageis - Tecnicas para desenvolver melhor e mais rápido um sistema.
+ - Mobile - dispositivo Móvel.
+ - MVC - Model View Control - arquitetura de software.
+ - MVP - Minimo Produto Viavel para testes pelo cliente. 
+ - MySql - Banco de Dados.
+ - Resolução - Quantidade de pixels que a tela possui.
+ - Servidor - lugar que armazena algo.
+ - Sistema Operacional - Linux, Windows e Mac por exemplo.
+ - Solução - Programa ou sistema que visa resolver um problema.
+ - WYSIWYG - O que você vê é o que você recebe.

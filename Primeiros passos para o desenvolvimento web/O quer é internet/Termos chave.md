@@ -1,0 +1,39 @@
+# Termos chave
+ - Download/Upload - Baixar ou mandar algo para internet.
+ - Navegador - Ferramenta para acessar sites no servidor de internet.
+ - Banda Larga - Conexão com a internet.
+ - Cache - Arquivos salvos pelo site no seu computador para acesso rápido.
+ - Crack - Chave falsa para baixar softwares e programas, é pirataria.
+ - E-mail - correio eletrônico.
+ - Emoticons/emojis - icones, imagens e sequência de caracteres que representam uma emoção e outros simbolos.
+ - gif/jgp/png - Formatos de imagens e videos.
+ - Host - Servidor.
+ - HTML - Linguagem de marcação.
+ - HTTP - Protocolo de segurança de algo.
+ - incone - Figura que representa algo.
+ - Link - Ligação de endereço com textos
+ - Login/logoff - Conexão e deconexão com a internet.
+ - MP3 - Arquivo de áudio.
+ - Multimidia - execução de diversas midias ao mesmo tempo(áudio e vídeo).
+ - Nickname - Apelido.
+ - Online/Offline - estar conectado, e estar desconectado.
+ - Pixel - Elemento de uma imagem.
+ - Spam - E-mails ou mensagens massivas.
+ - URL - Endereço de algo na internet, um site por exemplo.
+ - Virus - Todo software malicioso que causa danos 
+ - Backup - Uma cópia dos dados de uma empresa por exemplo, para um lugar seguro, é uma medida de segurança para caso algo aconteça com o servidor principal.
+ - Blog - É uma espécie de diário online.
+ - Cyber Bullyng - Bullyng que acontece online
+ - 3G/4G/5G - Velocidades da internet Movel
+ - Cookies - Pequenos registros da sua atividade nos sites.
+ - FireWall - Parede que impede acessos indevidos.
+ - Hacker - Pessoas que encontram falhas e vulnerabilidades nos softwares ou sistemas de terceiros.
+ - IP - Nome de algo na internet
+ - Keylogger - Um virus que captura o que você digita no teclado.
+ - Phishing - Golpes aplicados para roubar dados.
+ - Clickbait - Noticias que devem atrair clicks 
+ - Fake News - boatos da internet
+ - Podcast - Programa de rádio online
+ - Vlog - Diário em Video.
+ - Pop-up - Caixas de anúncios que aparecem em alguns sites.
+ - Youtuber - Pessoa que trabalha com a internet.
