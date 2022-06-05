@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+
+}
+
+#menu{
+    position:absolute;
+    font: 13px Arial, Verdana, Sans-serif;
+    background: rgb(161, 49, 49);
+    text-align:left;
+    width: 250px;
+    margin: 50px;
+    padding: 2px;
+}
+
+#menu ul li{
+    list-style-type: nome;
+    margin: 0;
+    padding: 0;
+
+}
+
+#menu ul li{
+    background: rgb(241, 120, 120);
+
+}
+#menu ul li + li{
+    margin: 2px 0 0 0; 
+}
+
+#menu ul li:hover{
+    background:rgb(192, 103, 103)
+}
+
+#menu ul li a{
+    text-decoration: none;
+    padding: 3px 20px 3px 5px;
+    display: block;
+    color:black
+}
+
+#menu ul.submin1{
+    background:rgb(204, 138, 138);
+    padding: 5px 30px;
+    display: none;
+}
