@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+* {
+    margin: px;
+    padding: px;
+}
+
+html, body{
+    background-image: url('banner.png');
+}
+
+.titulo{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:aliceblue;
+    text-shadow: 15px 15px 15px black;
+    -webkit-text-stroke: 1.5px black;
+}
+
+#contador{
+    text-align: center;
+    padding-top: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25pt;
+    font-weight: bolder;
+    color: whitesmoke;
+    -webkit-text-stroke: 0.8px black;
+}
+
+#btn_decrementar{
+    background-color: #a20500;
+    color: aliceblue;
+    border-style: outset;
+    border-radius: 17%;
+    height: 25px;
+    width: 75px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    position: absolute;
+    left: 41.9%;
+}
+
+#btn_zerar{
+    background-color: #0026a2;
+    color: aliceblue;
+    border-style: outset;
+    border-radius: 17%;
+    height: 25px;
+    width: 75px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9pt;
+    text-decoration: none;
+    text-shadow: none;
+    position: absolute;
+    left: 47.5%
+}
+
+#btn_incrementar{
+    background-color: #05a200;
+    color: aliceblue;
+    border-style: outset;
+    border-radius: 17%;
+    height: 25px;
+    width: 75px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    text-shadow: none;
+    position: absolute;
+    left: 53%;
+}
